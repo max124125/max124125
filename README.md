@@ -44,6 +44,28 @@ Weaknesses:
  - Getting caught up in procrastination
  - 
 
+# Technical Skills
+
+**Coding:** Python, MATLAB,
+Arduino, C++
+**CAD:** Fusion 360, SolidWorks, OnShape
+**Microsoft:** Excel, Word,
+PowerPoint, Sharepoint
+
+- 3D printing
+- Soldering
+- Manufacturing (using lathes,
+CNC’s, welding, etc.)
+- Self-Teaching
+- Problem Solving
+
+# Interest
+Travelling
+Volleyball
+Climbing
+Scuba diving
+Skiing
+
 |  Printer & Trial   | top Accel [mm/s2] |
 |       :-----:        |       :---:      |
 |    `Ender3 [NA]`  |        500       |
