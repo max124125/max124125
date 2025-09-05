@@ -16,14 +16,27 @@ research, specializing in controls, robotics and mechatronics
 - Helped to assemble medical robotic equipment for university labs • Helped to
 build contacts database for future use.
 
+
+**Infinite Nanotechnology** | Summer Intern  
+May 2024 - May 2025 | 265 Frobisher Drive, Waterloo, ON N2V 2G4
+Startup Company focused on solving the issue of non recyclable and biodegradable packaging for consumer products (Chip bags, granola bars, Shampoo Sachels, etc.)
+During my time at the company I focused on a variety of things including, but not limited to (vague due to NDA):
+- Designing, sourcing, and assembling subsystems for a large scale production machine.
+- Modifying and maintenance of testing equipment.
+- Running & assisting in lab reasearch experiments.
+- Creation of R&D testing rigs
+
+
+
+# Strengths & Weaknesses
 Strengths:
  - Creative thinking, and problem solving
  - Design and Manufacturing
  - 
 
 Weaknesses: 
+ - Writing
  - Getting caught up in procrastination
- - 
  - 
 
 |  Printer & Trial   | top Accel [mm/s2] |
