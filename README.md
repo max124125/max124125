@@ -1,6 +1,6 @@
 ## Hi! Please Find my Resume HERE, and my projects in the REPOSITORIES tab!
 
-Current Education:  
+**Current Education:**  
 Queen’s University | Bachelor of Mechanical Engineering [5th year]  
 September 2021 - Expected April 2026 | Kingston, ON  
 
