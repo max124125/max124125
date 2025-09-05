@@ -22,7 +22,7 @@ build contacts database for future use.
   
 **Infinite Nanotechnology** | Intern  
 May 2024 - May 2025 | 265 Frobisher Drive, Waterloo, ON N2V 2G4
-Startup Company focused on solving the issue of non recyclable and biodegradable packaging for consumer products (Chip bags, granola bars, Shampoo Sachels, etc.)
+Startup Company focused on solving the issue of creting recyclable and biodegradable packaging for consumer products (Chip bags, granola bars, shampoo sachels, etc.)
 During my time at the company I focused on a variety of things including, but not limited to (vague due to NDA):
 - Designing, sourcing, and assembling subsystems for a large scale production machine.
 - Modifying and maintenance of testing equipment.
