@@ -1,9 +1,8 @@
 ## Hi there 👋
 
 <p float="middle">
-  <img src="file:///C:/Users/maxmc/OneDrive/Desktop/CV_Max_McCutcheon.pdf" width="420" />
+  <img src="https://github.com/user-attachments/assets/34089dff-b845-40b4-b713-95788c36dbbe" width="720" />
 </p>
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
