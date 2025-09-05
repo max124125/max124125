@@ -58,7 +58,7 @@ PowerPoint, Sharepoint
 - Manufacturing (using lathes,
 CNC’s, welding, etc.
 
-# Other Interest
+# Other Interest (outside of hobby projects)
 - Travelling  
 - Volleyball  
 - Climbing  
