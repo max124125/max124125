@@ -59,16 +59,10 @@ CNC’s, welding, etc.)
 - Self-Teaching
 - Problem Solving
 
-# Interest
-Travelling
-Volleyball
-Climbing
-Scuba diving
-Skiing
-
-|  Printer & Trial   | top Accel [mm/s2] |
-|       :-----:        |       :---:      |
-|    `Ender3 [NA]`  |        500       |
-|     RXL [1]        |       1,500      |
-|      RXL [2]       |       **3,000**      |
+# Other Interest
+- Travelling  
+- Volleyball  
+- Climbing  
+- Scuba diving  
+- Skiing  
 
