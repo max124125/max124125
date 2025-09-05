@@ -47,10 +47,10 @@ Weaknesses:
 # Technical Skills
 
 **Coding:** Python, MATLAB,
-Arduino, C++
-**CAD:** Fusion 360, SolidWorks, OnShape
+Arduino, C++  
+**CAD:** Fusion 360, SolidWorks, OnShape  
 **Microsoft:** Excel, Word,
-PowerPoint, Sharepoint
+PowerPoint, Sharepoint  
 
 - 3D printing
 - Soldering
