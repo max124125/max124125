@@ -4,8 +4,10 @@ Hi! Please Find information about me HERE, and my projects in the REPOSITORIES t
 # Current Education: 
 **Queen’s University** | Bachelor of Mechanical Engineering [5th year]  
 September 2021 - Expected April 2026 | Kingston, ON  
-
-
+  
+  
+  
+  
 
 # Relevant work experience:
 **Quanser Consulting Inc** | Summer Intern  
