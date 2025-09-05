@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 <p float="middle">
-  <img src="https://github.com/user-attachments/assets/4cb64197-a9bc-4353-89c3-1a801d798759" width="420" />
+  <img src="[CV_Max_McCutcheon.pdf](https://github.com/user-attachments/files/22164631/CV_Max_McCutcheon.pdf)
+" width="420" />
 </p>
 
 - 🔭 I’m currently working on ...
