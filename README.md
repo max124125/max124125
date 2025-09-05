@@ -4,6 +4,12 @@ Hi! Please Find information about me HERE, and my projects in the REPOSITORIES t
 # Current Education: 
 **Queen’s University** | Bachelor of Mechanical Engineering [5th year]  
 September 2021 - Expected April 2026 | Kingston, ON  
+Current technical Electives:  
+ - Compressible Fluid Flow  
+ - Computer Integrated Manufacturing  
+ - Additive Manufacturing  
+ - Nuclear Materials
+ - Corrosion and Failure Analysis
   
 # Relevant work experience:
 **Quanser Consulting Inc** | Summer Intern  
