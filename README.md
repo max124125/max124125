@@ -8,12 +8,12 @@ September 2021 - Expected April 2026 | Kingston, ON
 
 
 # Relevant work experience:
-**Quanser Consulting Inc** | Summer Intern
-Summer 2018 | 119 Spy Ct, Markham, ON L3R 5H6
+**Quanser Consulting Inc** | Summer Intern  
+Summer 2018 | 119 Spy Ct, Markham, ON L3R 5H6  
 International engineering company that provides lab equipment for teaching and
 research, specializing in controls, robotics and mechatronics
-• Reviewed and bug tested new teaching app prior to launch
-• Helped to assemble medical robotic equipment for university labs • Helped to
+- Reviewed and bug tested new teaching app prior to launch
+- Helped to assemble medical robotic equipment for university labs • Helped to
 build contacts database for future use.
 
 Strengths:
