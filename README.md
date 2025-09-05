@@ -18,8 +18,9 @@ build contacts database for future use.
 
 
 
-
-**Infinite Nanotechnology** | Summer Intern  
+  
+  
+**Infinite Nanotechnology** | Intern  
 May 2024 - May 2025 | 265 Frobisher Drive, Waterloo, ON N2V 2G4
 Startup Company focused on solving the issue of non recyclable and biodegradable packaging for consumer products (Chip bags, granola bars, Shampoo Sachels, etc.)
 During my time at the company I focused on a variety of things including, but not limited to (vague due to NDA):
@@ -47,6 +48,3 @@ Weaknesses:
 |     RXL [1]        |       1,500      |
 |      RXL [2]       |       **3,000**      |
 
-<p float="middle">
-  <img src="https://github.com/user-attachments/assets/34089dff-b845-40b4-b713-95788c36dbbe" width="850" />
-</p>
