@@ -19,11 +19,6 @@ research, specializing in controls, robotics and mechatronics
 - Reviewed and bug tested new teaching app prior to launch
 - Helped to assemble medical robotic equipment for university labs  
 - Helped to build contacts database for future use.
-
-
-# Design work
-  Several of my personal favourite hobby projects along with high school and University projects can be found in the repositories page.
-  The final reports/videos and more can be found under each project.
   
 **Infinite Nanotechnology** | Intern  
 May 2024 - May 2025 | 265 Frobisher Drive, Waterloo, ON N2V 2G4
@@ -33,6 +28,10 @@ During my time at the company I focused on a variety of things including, but no
 - Modifying and maintenance of testing equipment.
 - Running & assisting in lab reasearch experiments.
 - Creation of R&D testing rigs
+
+# Design work
+  Several of my personal favourite hobby projects along with high school and University projects can be found in the repositories page.
+  The final reports/videos and more can be found under each project.
 
 # Strengths and areas for improvment
 Strengths:
