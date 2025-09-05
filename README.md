@@ -17,6 +17,8 @@ research, specializing in controls, robotics and mechatronics
 build contacts database for future use.
 
 
+
+
 **Infinite Nanotechnology** | Summer Intern  
 May 2024 - May 2025 | 265 Frobisher Drive, Waterloo, ON N2V 2G4
 Startup Company focused on solving the issue of non recyclable and biodegradable packaging for consumer products (Chip bags, granola bars, Shampoo Sachels, etc.)
