@@ -1,5 +1,5 @@
 
-$${\color{Hi! Please find information about me HERE, and my projects in the REPOSITORIES tab!}Green}$$ 
+$${\color{green}Hi! Please find information about me HERE, and my projects in the REPOSITORIES tab!}$$ 
 
 # Current Education: 
 **Queen’s University** | Bachelor of Mechanical Engineering [5th year]  
