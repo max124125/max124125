@@ -39,7 +39,6 @@ Strengths:
  - Creative thinking, and problem solving
  - Design and Manufacturing
  - Self teaching
- - 
 
 Areas of improvement: 
  - Writing
