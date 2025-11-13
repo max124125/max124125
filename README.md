@@ -33,7 +33,8 @@ During my time at the company I focused on a variety of things including, but no
   Several of my personal favourite hobby projects along with high school and University projects can be found in the repositories page.
   The final reports/videos and more can be found under each project.
 
-My design work however includes projects from:
+My design work however includes projects from:  
+
 High school:
    - 3 projects in grade 11 robotics (BreadBoard Space Invaders, Infinity mirror display base, Mini CNC plotter  [Repository available])
    - 3 projects in grade 12 robotics (LED MSGEQ7 Spectrum Equalizer, CreditCard Gameboy, Foldable 3D printer  [Repository available])
