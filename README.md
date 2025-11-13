@@ -33,6 +33,26 @@ During my time at the company I focused on a variety of things including, but no
   Several of my personal favourite hobby projects along with high school and University projects can be found in the repositories page.
   The final reports/videos and more can be found under each project.
 
+My design work however includes projects from:
+High school:
+   - 3 projects in grade 11 robotics (BreadBoard Space Invaders, Infinity mirror display base, Mini CNC plotter  [Repository available])
+   - 3 projects in grade 12 robotics (LED MSGEQ7 Spectrum Equalizer, CreditCard Gameboy, Foldable 3D printer  [Repository available])
+
+Queens:
+- Baja SAE team (CVT Secondary, CVT cooling system, Other Manufacturing work)
+- Satellite team (Solar Array Mechanisms, Antenna deployment Mechanisms, General Work)
+- Capstone project (Drone project for Queen's Rover Team)
+- Course Projects (Vertical farming, Medical drone logistics, Gearbox optomization etc.)
+
+Hobby Projects:
+- Voron0-TinyM (And full rebuild) [Repository available]
+- RXL-Printer Project [Repository available]
+- Motorized Electric scooter [Repo being made]
+- Motorized Mini Electric Skateboard  [Repo being made]
+- MSGEQ7 OneWay mirror Equalizer  [Repo being made]
+- RTC LED Clock [Repo being made]
+- Many more.....
+
 # Strengths and areas for improvment
 Strengths:
  - Creative thinking, and problem solving
