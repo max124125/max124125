@@ -10,7 +10,16 @@ Current technical Electives:
  - Additive Manufacturing  
  - Nuclear Materials
  - Corrosion and Failure Analysis
-  
+
+**Infinite Nanotechnology** | Intern  
+May 2024 - May 2025 | 265 Frobisher Drive, Waterloo, ON N2V 2G4
+Startup Company focused on solving the issue of creting recyclable and biodegradable packaging for consumer products (Chip bags, granola bars, shampoo sachels, etc.)
+During my time at the company I focused on a variety of things including, but not limited to (vague due to NDA):
+- Designing, sourcing, and assembling subsystems for a large scale production machine.
+- Modifying and maintenance of testing equipment.
+- Running & assisting in lab reasearch experiments.
+- Creation of R&D testing rigs
+ 
 # Relevant work experience:
 **Quanser Consulting Inc** | Summer Intern  
 Summer 2018 | 119 Spy Ct, Markham, ON L3R 5H6  
@@ -20,15 +29,6 @@ research, specializing in controls, robotics and mechatronics
 - Helped to assemble medical robotic equipment for university labs  
 - Helped to build contacts database for future use.
   
-**Infinite Nanotechnology** | Intern  
-May 2024 - May 2025 | 265 Frobisher Drive, Waterloo, ON N2V 2G4
-Startup Company focused on solving the issue of creting recyclable and biodegradable packaging for consumer products (Chip bags, granola bars, shampoo sachels, etc.)
-During my time at the company I focused on a variety of things including, but not limited to (vague due to NDA):
-- Designing, sourcing, and assembling subsystems for a large scale production machine.
-- Modifying and maintenance of testing equipment.
-- Running & assisting in lab reasearch experiments.
-- Creation of R&D testing rigs
-
 # Design work
   Several of my personal favourite hobby projects along with high school and University projects can be found in the repositories page.
   The final reports/videos and more can be found under each project.
