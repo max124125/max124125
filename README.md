@@ -37,10 +37,6 @@ research, specializing in controls, robotics and mechatronics
 
 My design work however includes projects from:  
 
-High school:
-   - 3 projects in grade 11 robotics (BreadBoard Space Invaders, Infinity mirror display base, Mini CNC plotter  [Repository available])
-   - 3 projects in grade 12 robotics (LED MSGEQ7 Spectrum Equalizer, CreditCard Gameboy, Foldable 3D printer  [Repository available])
-
 Queens:
 - Baja SAE team (CVT Secondary, CVT cooling system, Other Manufacturing work)
 - Satellite team (Solar Array Mechanisms, Antenna deployment Mechanisms, General Work)
@@ -56,6 +52,11 @@ Hobby Projects:
 - RTC LED Clock [Repo being made]
 - Many more.....
 
+High school:
+- 3 projects in grade 11 robotics (BreadBoard Space Invaders, Infinity mirror display base, Mini CNC plotter  [Repository available])
+- 3 projects in grade 12 robotics (LED MSGEQ7 Spectrum Equalizer, CreditCard Gameboy, Foldable 3D printer  [Repository available])
+
+
 # Strengths and areas for improvment
 Strengths:
  - Creative thinking, and problem solving
@@ -65,7 +66,6 @@ Strengths:
 Areas of improvement: 
  - Writing
  - Organization
- - Procrastination 
 
 # Technical Skills
 
