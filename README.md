@@ -2,7 +2,7 @@
 Hi! Please find information about me HERE, and my projects in the REPOSITORIES tab!
 
 # Current Education: 
-**Queen’s University** | Bachelor of Mechanical Engineering [5th year]  
+**Queen’s University** | Bachelor of Mechanical Engineering [Final year]  
 September 2021 - Expected April 2026 | Kingston, ON  
 Current technical Electives:  
  - Compressible Fluid Flow  
