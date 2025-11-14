@@ -88,11 +88,3 @@ CNC’s, welding, etc.
 # What I bring to a team?
 - I bring a variety of both technical and general skills that can be applicable to an engineering project. With this I have found myself in projects under many different roles, either doing CAD work, software development, electrical systems, making presentations, and more.
 - For my role in a team I typically tend to gravitate towards a technical role and am happy to work under leadership. Although, I have also demonstrated initiative to take charge of general project goals and tasks as well.
-
-# Future Career
- After my previous two internships (Infinite and Quanser). I have determined that I enjoy working at smaller companies with fewer employees and a tight knit community.
- At both of these companies I was given a lot of independence and freedom to complete task on my own, and in my own way.
- Additionally, these companies taught me about every aspect of themselves by having me move around and fuffill different roles, one week I could be writing a report or researching, the next manufacturing parts in a shop, and the next coding a custom robotic for testing.
- This combined with the tight knit teams, meant that others would not hesistate to help out or teach me new skills, overall making these job experiences very enjoyable.
- And, as such, provides me motiviation to look and work for a company with a similar view on community and flexibility in job roles.
-
