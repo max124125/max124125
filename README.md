@@ -88,5 +88,5 @@ CNC’s, welding, etc.
 - Skiing
 
 # What I bring to a team?
-- I bring a variety of both technical and general skills that can be applicable to an engineering project. With this I have found myself in projects under many different roles, either doing CAD work, software development, electrical systems, making presentations, and more.
-- For my role in a team I typically tend to gravitate towards a technical role and am happy to work under leadership. Although, I have also demonstrated initiative to take charge of general project goals and tasks as well.
+- I bring a variety of both technical and general skills that can be applicable to an engineering project. With this I have found myself in projects under many different roles, either doing: CAD work, Reasearch, software development, electrical systems, protoyping, manufacturing, and more.
+
