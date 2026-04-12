@@ -22,7 +22,8 @@ During my time at the company I focused on a variety of things including, but no
 - Modifying and maintenance of testing equipment.
 - Running & assisting in lab research experiments.
 - Creation of R&D testing rigs
-    <br>
+
+ <br>
 
 **Quanser Consulting Inc** | Summer Intern  
 Summer 2018 | 119 Spy Ct, Markham, ON L3R 5H6  
