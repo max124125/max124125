@@ -1,5 +1,6 @@
 
 Hi! Please find information about me HERE, and some of my projects in the REPOSITORIES tab!
+NOTE: the RXL repo is the most complete at the moment, and I'm hoping to furthur the others over the summer
 
 # Current Education: 
 **Queen’s University** | Bachelor of Mechanical Engineering [Final year]  
@@ -39,8 +40,8 @@ research, specializing in controls, robotics and mechatronics
 A fairly comprehensive list for many of them is below, and feel free to reach out about any questions you have!
 
 Hobby Projects:
+- RXL-Printer Project  [Repository available]
 - Voron0-TinyM (And full rebuild) [Repository available]
-- RXL-Printer Project [Repository available]
 - Classic Vinyl Jukebox [Repository available]
 - Motorized Electric scooter [Repo being made]
 - Motorized Mini Electric Skateboard  [Repo being made]
