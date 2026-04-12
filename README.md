@@ -68,8 +68,8 @@ A team focused on the design fabrication and competition of an off-road vehicle 
     <br>
 
 High school:
-- 3 projects in grade 11 robotics (BreadBoard Space Invaders, Infinity mirror display base, Mini CNC plotter  [1 Repo available, others being made])
-- 3 projects in grade 12 robotics (LED MSGEQ7 Spectrum Equalizer, CreditCard Gameboy, Foldable 3D printer  [1 Repo available, others being made])
+- 3 projects in grade 11 robotics (BreadBoard Space Invaders, Infinity mirror display base, Mini CNC plotter  [1 Repo available])
+- 3 projects in grade 12 robotics (LED MSGEQ7 Spectrum Equalizer, CreditCard Gameboy, Foldable 3D printer  [1 Repo available])
 
     <br>
 
