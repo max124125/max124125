@@ -1,6 +1,6 @@
 
-Hi! Please find information about me HERE, and some of my projects in the REPOSITORIES tab!
-NOTE: the RXL repo is the most complete at the moment, and I'm hoping to furthur the others over the summer
+Hi! Please find information about me HERE, and some of my projects in the REPOSITORIES tab!  
+NOTE: the RXL repo is the most complete at the moment, and I'm hoping to improve the others over the summer
 
 # Current Education: 
 **Queen’s University** | Bachelor of Mechanical Engineering [Final year]  
