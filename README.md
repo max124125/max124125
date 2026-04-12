@@ -1,5 +1,5 @@
 
-Hi! Please find information about me HERE, and my projects in the REPOSITORIES tab!
+Hi! Please find information about me HERE, and some of my projects in the REPOSITORIES tab!
 
 # Current Education: 
 **Queen’s University** | Bachelor of Mechanical Engineering [Final year]  
@@ -10,8 +10,8 @@ Current technical Electives:
  - Additive Manufacturing  
  - Nuclear Materials
  - Corrosion and Failure Analysis
+Capston Project: Design and build of a drone (quadcopter config) to help the Queen's rover teams for URC 
 
- 
 # Relevant work experience:
 
 **Infinite Nanotechnology** | Intern  
@@ -32,29 +32,32 @@ research, specializing in controls, robotics and mechatronics
 - Helped to build contacts database for future use.
   
 # Design work
-  Several of my personal favourite hobby projects along with high school and University projects can be found in the repositories page.
-  The final reports/videos and more can be found under each project.
-
-My design work however includes projects from:  
-
-Queens:
-- Baja SAE team (CVT Secondary, CVT cooling system, Other Manufacturing work)
-- Satellite team (Solar Array Mechanisms, Antenna deployment Mechanisms, General Work)
-- Capstone project (Drone project for Queen's Rover Team)
-- Course Projects (Vertical farming, Medical drone logistics, Gearbox optomization etc.)
+ I have done dozens of projects through a combination of teams, school and hobby work. 
+  Some of my personal favourite ones can be found in the reposisitory tab, however I unfortunatly have yet to make repo's for many other ones yet. 
+A fairly comprehensive list for many of them is below, and feel free to reach out about any questions you have!
 
 Hobby Projects:
 - Voron0-TinyM (And full rebuild) [Repository available]
 - RXL-Printer Project [Repository available]
+- Classic Vinyl Jukebox [Repository available]
 - Motorized Electric scooter [Repo being made]
 - Motorized Mini Electric Skateboard  [Repo being made]
 - MSGEQ7 OneWay mirror Equalizer  [Repo being made]
 - RTC LED Clock [Repo being made]
 - Many more.....
 
+
+
+
+Queen’s Satellite Team | Mechanisms Lead
+September 2025 – 2026| Queen's University
+A team focused on the design fabrication and launch of a Satellite
+ •  CAD Deployment development for UHF Antenna, S-Band Antenna, Solar panels, Tethered Payload for Satellite
+ •  Design, Development and construction of Ground station system
+
 High school:
-- 3 projects in grade 11 robotics (BreadBoard Space Invaders, Infinity mirror display base, Mini CNC plotter  [Repository available])
-- 3 projects in grade 12 robotics (LED MSGEQ7 Spectrum Equalizer, CreditCard Gameboy, Foldable 3D printer  [Repository available])
+- 3 projects in grade 11 robotics (BreadBoard Space Invaders, Infinity mirror display base, Mini CNC plotter  [1 Repo available, others being made])
+- 3 projects in grade 12 robotics (LED MSGEQ7 Spectrum Equalizer, CreditCard Gameboy, Foldable 3D printer  [1 Repo available, others being made])
 
 
 # Strengths and areas for improvment
