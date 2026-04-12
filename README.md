@@ -47,13 +47,20 @@ Hobby Projects:
 - Many more.....
 
 
-
-
 Queen’s Satellite Team | Mechanisms Lead
-September 2025 – 2026| Queen's University
-A team focused on the design fabrication and launch of a Satellite
- •  CAD Deployment development for UHF Antenna, S-Band Antenna, Solar panels, Tethered Payload for Satellite
- •  Design, Development and construction of Ground station system
+September 2025 – 2026| Queen's University  
+A team focused on the design fabrication and launch of a Satellite  
+ •  CAD Deployment development for UHF Antenna, S-Band Antenna, Solar panels, Tethered Payload for Satellite  
+ •  Design, Development and construction of Ground station system  
+    
+
+Queen’s Baja SAE Team | Club Member  
+September 2022 – 2024| Queen's University  
+A team focused on the design fabrication and competition of an off-road vehicle for use in a North-American university competition  
+ •  Optimizing and machining of CVT secondary to fix warping and cracking issues present from previous design  
+ •  Designing and improving of CVT debris cover and cooling system  
+ •  General manufacturing of vehicle including control arms, tabs, etc.  
+
 
 High school:
 - 3 projects in grade 11 robotics (BreadBoard Space Invaders, Infinity mirror display base, Mini CNC plotter  [1 Repo available, others being made])
