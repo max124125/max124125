@@ -20,7 +20,7 @@ Startup Company focused on solving the issue of creting recyclable and biodegrad
 During my time at the company I focused on a variety of things including, but not limited to (vague due to NDA):
 - Designing, sourcing, and assembling subsystems for a large scale production machine.
 - Modifying and maintenance of testing equipment.
-- Running & assisting in lab reasearch experiments.
+- Running & assisting in lab research experiments.
 - Creation of R&D testing rigs
 
 **Quanser Consulting Inc** | Summer Intern  
