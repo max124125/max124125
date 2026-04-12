@@ -22,6 +22,7 @@ During my time at the company I focused on a variety of things including, but no
 - Modifying and maintenance of testing equipment.
 - Running & assisting in lab research experiments.
 - Creation of R&D testing rigs
+    <br>
 
 **Quanser Consulting Inc** | Summer Intern  
 Summer 2018 | 119 Spy Ct, Markham, ON L3R 5H6  
@@ -46,13 +47,15 @@ Hobby Projects:
 - RTC LED Clock [Repo being made]
 - Many more.....
 
+    <br>
 
-Queen’s Satellite Team | Mechanisms Lead
+Queen’s Satellite Team | Mechanisms Lead  
 September 2025 – 2026| Queen's University  
 A team focused on the design fabrication and launch of a Satellite  
  - CAD Deployment development for UHF Antenna, S-Band Antenna, Solar panels, Tethered Payload for Satellite  
  -  Design, Development and construction of Ground station system  
-    
+
+    <br>
 
 Queen’s Baja SAE Team | Club Member  
 September 2022 – 2024| Queen's University  
@@ -61,10 +64,13 @@ A team focused on the design fabrication and competition of an off-road vehicle 
  -  Designing and improving of CVT debris cover and cooling system  
  -  General manufacturing of vehicle including control arms, tabs, etc.  
 
+    <br>
 
 High school:
 - 3 projects in grade 11 robotics (BreadBoard Space Invaders, Infinity mirror display base, Mini CNC plotter  [1 Repo available, others being made])
 - 3 projects in grade 12 robotics (LED MSGEQ7 Spectrum Equalizer, CreditCard Gameboy, Foldable 3D printer  [1 Repo available, others being made])
+
+    <br>
 
 
 # Strengths and areas for improvment
