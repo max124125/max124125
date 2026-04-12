@@ -33,7 +33,7 @@ research, specializing in controls, robotics and mechatronics
   
 # Design work
  I have done dozens of projects through a combination of teams, school and hobby work. 
-  Some of my personal favourite ones can be found in the reposisitory tab, however I unfortunatly have yet to make repo's for many other ones yet. 
+  Some of my personal favourite ones can be found in the reposisitory tab, however I unfortunatly have yet to make repo's for many others. 
 A fairly comprehensive list for many of them is below, and feel free to reach out about any questions you have!
 
 Hobby Projects:
