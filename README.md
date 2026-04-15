@@ -10,7 +10,7 @@ Current technical Electives:
  - Computer Integrated Manufacturing  
  - Additive Manufacturing  
  - Nuclear Materials
- - Corrosion and Failure Analysis
+ - Corrosion and Failure Analysis  
 Capston Project: Design and build of a drone (quadcopter config) to help the Queen's rover teams for URC 
 
 # Relevant work experience:
